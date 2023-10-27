@@ -471,6 +471,26 @@
 				<key>Replace</key>
 				<data>DCBmNSIQdAQxwP/I</data>
 			</dict>
+                        <dict>
+ 				<key>Count</key>
+ 				<integer>1</integer>
+ 				<key>Find</key>
+ 				<data>9sIBdQ0=</data>
+ 				<key>Name</key>
+ 				<string>AppleHDAController</string>
+ 				<key>Replace</key>
+ 				<data>9sIBkJA=</data>
+ 			</dict>
+			<dict>
+ 				<key>Count</key>
+ 				<integer>1</integer>
+ 				<key>Find</key>
+ 				<data>g34MAHU=</data>
+ 				<key>Name</key>
+ 				<string>AppleHDAController</string>
+ 				<key>Replace</key>
+ 				<data>ZpBmkOs=</data>
+ 			</dict>
 		</array>
 		<key>Vendor</key>
 		<string>AMDZEN</string>
@@ -512,6 +532,26 @@
 				<key>Replace</key>
 				<data>DCBmNSIQdAQxwP/I</data>
 			</dict>
+			<dict>
+ 				<key>Count</key>
+ 				<integer>1</integer>
+ 				<key>Find</key>
+ 				<data>9sIBdQ0=</data>
+ 				<key>Name</key>
+ 				<string>AppleHDAController</string>
+ 				<key>Replace</key>
+ 				<data>9sIBkJA=</data>
+ 			</dict>
+			<dict>
+ 				<key>Count</key>
+ 				<integer>1</integer>
+ 				<key>Find</key>
+ 				<data>g34MAHU=</data>
+ 				<key>Name</key>
+ 				<string>AppleHDAController</string>
+ 				<key>Replace</key>
+ 				<data>ZpBmkOs=</data>
+ 			</dict>
 		</array>
 		<key>Vendor</key>
 		<string>AMDZEN</string>
